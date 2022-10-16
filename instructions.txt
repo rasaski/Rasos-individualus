@@ -1,0 +1,10 @@
+Tai yra kačių ir šunų gydomųjų vaistų katalogas.
+Visi prisijungę vartotojai, gali pamatyti, kokius maistus sveikatos sutrikimus turintiems gyvūnams siūlo Royal Canin ir Hills firmos.
+Tik admin gali pažiūrėti kontaktus šių tiekėjų. (Taip pat vartotojui rasa suteikėm leidimą matyti kontaktus.)
+
+admin vardas: vigi
+admin slaptažodis: 123
+
+Vartotojai: rasa rasa@gmail.com pasvordas
+            laurynas laurynas@gmail.com pasvordas
+            lukas lukas@gmail.com pasvordas
